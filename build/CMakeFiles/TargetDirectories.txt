@@ -1,0 +1,3 @@
+C:/Users/ricky/Documents/C++/OpenGL/GLMinecraft/build/CMakeFiles/glcraft.dir
+C:/Users/ricky/Documents/C++/OpenGL/GLMinecraft/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ricky/Documents/C++/OpenGL/GLMinecraft/build/CMakeFiles/ZERO_CHECK.dir
